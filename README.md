@@ -1,16 +1,17 @@
 # A Huge Number of Go Examples, Exercises and Quizzes
 
-This repository contains the examples, exercises, and quizzes for my [Go course: Learn Go Programming: Complete Bootcamp Course](https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/?referralCode=5CE6EB34E2B1EF4A7D37). However, even without the course, using this repository, you can learn a great deal of information about Go. Inside, there are thousands of examples, exercises and quizzes. 
+Best way of learning is doing. Inside this repository, you will find thousands of Go examples, exercises and quizzes. I initially created this repository for my **[Go: Bootcamp Course](https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/?referralCode=5CE6EB34E2B1EF4A7D37)**. Later on, I added a lot of exercises, and I wanted every programmer who is not yet enrolled in the course to learn for free as well. So here it is. Enjoy.
 
-You're welcome to contribute your own exercises, quizzes and wiki.
+**Available in the following languages:**
+* **[English](https://github.com/inancgumus/learngo)**
+* **[Spanish](translation/spanish)** _(WIP: Please Contribute)_
+* **[Chinese](translation/chinese)** _(WIP: Please Contribute)_
 
-Enjoy!
+## ❤️ Help other fellow developers
 
-**Enroll in the course now with this [link](https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/?referralCode=5CE6EB34E2B1EF4A7D37).**
+Sharing is free but caring is priceless. [So, now please click here](https://twitter.com/intent/tweet?text=I%27m%20learning%20%23golang%20with%201000%2B%20hand-crafted%20examples%2C%20exercises%2C%20and%20quizzes.&url=https://github.com/inancgumus/learngo&via=inancgumus) and share this repository on Twitter.
 
----
-
-# Stay in touch
+## Stay in touch
 
 * **[Follow me on Twitter](https://twitter.com/inancgumus)**
 
@@ -18,27 +19,15 @@ Enjoy!
 
   [![@inancgumus](https://img.shields.io/twitter/follow/inancgumus.svg?style=social&label=@inancgumus)](https://twitter.com/inancgumus)
 
-* **[Learn Go Programming Blog](https://blog.learngoprogramming.com)**
+* **[Subscribe to my newsletter](https://eepurl.com/c4DMNX)**
 
-  _Learn Go Programming blog contains ebook sized, visual, and easy to understand articles for beginner and experienced Go programmers._
-  
-  _Followed by 3K+ developers._
+  _Get updates from me._
 
-* **[Subscribe to the Emailing List](https://eepurl.com/c4DMNX)**
+* **[Read my blog](https://blog.learngoprogramming.com)**
 
-  _Get new course announcements and other updates about the course._
+  _Followed by 5K+ developers, and contains dozens of illustrated articles about Go._
 
-  _5K+ developers already subscribed!_
-
-* **[Join us on Slack](http://bit.ly/LEARNGOSLACK)**
-
-  _A place for Go programmers to talk in real-time: Q&A and general Go discussion._
-
-* **[Learn Go Programming Youtube Channel](https://www.youtube.com/channel/UCYxepZhtnFIVRh8t5H_QAdg?view_as=subscriber)**
-
-  _4K Videos — The channel is very young right now._
-
-* **[Learn Go Programming Facebook Group](https://www.facebook.com/groups/learngoprogramming/)**
+* **[Watch my Youtube channel](https://www.youtube.com/channel/UCYxepZhtnFIVRh8t5H_QAdg?view_as=subscriber)**
 
 ---
 

@@ -40,12 +40,12 @@
 * %v *CORRECT*
 * %t
 
-## What does "\n" print?
+## What does `"\n"` print?
 * \n
 * Prints a newline *CORRECT*
 * Prints an empty string
 
-## What does "\\n" print?
+## What does `"\\n"` print?
 * \n *CORRECT*
 * Prints a newline
 * Prints an empty string
@@ -55,7 +55,7 @@
 * c:\\secret\\directory
 * c:\secret\directory *CORRECT*
 
-## What does "\"heisenberg\"" print?
+## What does `"\"heisenberg\""` print?
 * ERROR
 * heisenberg
 * "heisenberg" *CORRECT*
