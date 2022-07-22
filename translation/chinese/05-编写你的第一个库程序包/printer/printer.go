@@ -6,14 +6,11 @@
 // In-person training  : https://www.linkedin.com/in/inancgumus/
 // Follow me on twitter: https://twitter.com/inancgumus
 
-package main
+package printer
 
-// 取消下面代码的注释会出错
-// (只删除最后三行的 //)
+import "fmt"
 
-// 这个文件看不到 main.go's 导入的 ("fmt")的名字
-// 因为导入的名字在文件作用域
-
-// func bye() {
-// 	fmt.Println("Bye!")
-// }
+// Hello 是一个导出函数
+func Hello() {
+	fmt.Println("exported hello")
+}

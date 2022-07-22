@@ -8,12 +8,12 @@
 
 package main
 
-// 取消下面代码的注释会出错
-// (只删除最后三行的 //)
+import (
+	"fmt" // 你应该将这里替换成你自己的用户名
 
-// 这个文件看不到 main.go's 导入的 ("fmt")的名字
-// 因为导入的名字在文件作用域
+	"github.com/inancgumus/learngo/05-write-your-first-library-package/exercise/solution/golang"
+)
 
-// func bye() {
-// 	fmt.Println("Bye!")
-// }
+func main() {
+	fmt.Println(golang.Version())
+}

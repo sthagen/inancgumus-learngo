@@ -6,14 +6,13 @@
 // In-person training  : https://www.linkedin.com/in/inancgumus/
 // Follow me on twitter: https://twitter.com/inancgumus
 
-package main
+package golang
 
-// 取消下面代码的注释会出错
-// (只删除最后三行的 //)
+import (
+	"runtime"
+)
 
-// 这个文件看不到 main.go's 导入的 ("fmt")的名字
-// 因为导入的名字在文件作用域
-
-// func bye() {
-// 	fmt.Println("Bye!")
-// }
+// Version 返回当前的 Go 版本
+func Version() string {
+	return runtime.Version()
+}

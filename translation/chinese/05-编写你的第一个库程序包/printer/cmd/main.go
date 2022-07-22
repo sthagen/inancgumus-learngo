@@ -8,12 +8,9 @@
 
 package main
 
-// 取消下面代码的注释会出错
-// (只删除最后三行的 //)
+// 自动导入！... 好耶！
+import "github.com/inancgumus/learngo/05-write-your-first-library-package/printer"
 
-// 这个文件看不到 main.go's 导入的 ("fmt")的名字
-// 因为导入的名字在文件作用域
-
-// func bye() {
-// 	fmt.Println("Bye!")
-// }
+func main() {
+	printer.Hello()
+}
